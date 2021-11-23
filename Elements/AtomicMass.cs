@@ -11,7 +11,7 @@
 
         public AtomicMass(string atomicMass)
         {
-            mass = int.Parse(atomicMass.Split(" ")[0]);
+            mass = double.Parse(atomicMass.Split(" ")[0]);
             unit = atomicMass.Split(" ")[1];
         }
     }

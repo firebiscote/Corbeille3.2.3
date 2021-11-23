@@ -1,4 +1,4 @@
-﻿namespace Corbeille3._2._3.Universes
+﻿namespace Corbeille3._2._3.Elements
 {
     public class Point
     {
